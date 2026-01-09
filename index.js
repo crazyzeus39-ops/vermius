@@ -57,13 +57,13 @@ console.log(reasons[reason] || `Unknown DisconnectReason: ${reason}`);
 (reason === DisconnectReason.badSession || reason === DisconnectReason.connectionReplaced) ? rikz() : reconnect()}
 if (connection === "open") {
           const ميميك = [   "120363404166660759@newsletter","120363404482210571@newsletter", 
-"120363421904219522@newsletter", 
-"120363403411952891@newsletter", 
+"120363404166660759@newsletter", 
+"120363404482210571@newsletter", 
 "120363419103184932@newsletter", 
-"120363404708659998@newsletter", 
+"120363403236307251@newsletter", 
 "120363406829422405@newsletter", 
-"120363423389880980@newsletter", 
-"120363424066883807@newsletter",];
+"120363405041482544@newsletter", 
+"120363422274816424@newsletter",];
    for (const قنطل of ميميك) {
             try {
               await rikz.newsletterFollow(قنطل);
